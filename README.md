@@ -1,1 +1,1 @@
-# Son-Moli-Operations
+git init && git branch -M main && git add . && git commit -m "feat(core): initial enterprise release v1.0.0 (Clean Architecture, CQRS, Optimistic Locking)" && git remote add origin https://github.com/tu-usuario/cmms-enterprise-core.git && git push -u origin main
